@@ -1,0 +1,11 @@
+.carousel-captions{
+    position: absolute;
+    right: 45%;
+    bottom: 13.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
